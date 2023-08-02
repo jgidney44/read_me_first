@@ -1,7 +1,7 @@
 # read_me_first
 Information about my GitHub Portfolio
 
-Here are a collection of data science projects that I have made since mid 2021 to present.
+Here are a collection of some of my data science projects that I have made since mid 2021 to present.
 
 These show how I have progressed my skills over time.
 
