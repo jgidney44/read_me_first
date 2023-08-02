@@ -7,5 +7,5 @@ These show how I have progressed my skills over time.
 
 The projects in order from most recently created to oldest are:
   1. Hotel Booking Cancellations
-  2. Wine quality 
-  3. Diamonds
+  2. Wine Quality 
+  3. Diamond Price
