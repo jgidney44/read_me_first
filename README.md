@@ -1,11 +1,7 @@
 # read_me_first
 Information about my GitHub Portfolio
 
-Here are a collection of some of my data science projects that I have made since mid 2021 to present.
+Here I am going to store a collection of my data science projects that I have created between 2021 and the present day.
 
-These show how I have progressed my skills over time.
-
-The projects in order from most recently created to oldest are:
-  1. Hotel Booking Cancellations
-  2. Wine Quality 
-  3. Diamond Price
+The majority of my most sophisticated projects that I completed during my internship I cannot upload since they use company data.
+For example my Four Seasons Property Segmentation task.
